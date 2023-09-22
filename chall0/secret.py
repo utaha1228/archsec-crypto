@@ -1,0 +1,1 @@
+FLAG = b"MIT{b4by_R5A}"
