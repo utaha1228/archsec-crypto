@@ -1,1 +1,2 @@
 FLAG = b"MIT{AES_Master!}"
+key = b"\xbd\xc1\x1f\xce\xb3:\xb5\xb4\x04\xaes}W[cR"
